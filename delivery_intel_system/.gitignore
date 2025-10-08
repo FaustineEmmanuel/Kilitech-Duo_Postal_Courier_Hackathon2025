@@ -1,0 +1,4 @@
+.venv
+__pycache__/
+uploads/*
+src/uploads/delivery_five_cities_tanzania.csv
