@@ -8,7 +8,6 @@
 ### Team Members
 
 * **Faustine Emmanuel** - DCM/25/02163
-* **Laureen Kidunda** - DCM/25/----- <i>Account Error</i>
 * **Cleven Godson** - DCM/25/00166
 
 ## Problem
